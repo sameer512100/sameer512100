@@ -28,6 +28,6 @@
 ## 📬 **Contact Me**
 - 📧 Email: sayyedsameer6280@gmail.com  
 - 🏠 GitHub: [sameer512100](https://github.com/sameer512100)  
-- 💼 LinkedIn: [Coming Soon]  
+- 💼 LinkedIn: https://www.linkedin.com/in/sameer5121
 
 ⭐ Feel free to fork and star my projects! 🚀
