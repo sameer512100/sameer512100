@@ -5,19 +5,11 @@
   </a>
 </p>
 
----
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayyedsameer6280&show_icons=true&theme=radical&count_private=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedsameer6280&theme=radical" height="150">
-</p>
-
----
 
 ## 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,git,github,python" />
 </p>
 
 ---
