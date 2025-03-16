@@ -26,7 +26,7 @@
 ---
 
 ## 📬 **Contact Me**
-- 📧 Email: sayyedsameer6280@gmail.com  
+- 📧 Email: sayyedsameer2106@gmail.com  
 - 🏠 GitHub: [sameer512100](https://github.com/sameer512100)  
 - 💼 LinkedIn: https://www.linkedin.com/in/sameer5121
 
