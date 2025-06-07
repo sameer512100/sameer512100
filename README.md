@@ -13,14 +13,7 @@
 
 ---
 
-## 💡 **Projects**
-### 🌤️ Weather App  
-🔗 [GitHub Repo](https://github.com/sameer512100/weather-app)  
-📌 A weather application that fetches real-time weather data using an API and displays it in a user-friendly interface.
 
-### 🛍️ Amazon UI Clone  
-🔗 [GitHub Repo](https://github.com/sameer512100/Amazon-UI-Clone)  
-📌 A frontend clone of Amazon's UI built with HTML, CSS, and JavaScript to practice responsive design.
 
 ---
 
